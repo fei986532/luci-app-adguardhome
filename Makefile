@@ -1,4 +1,4 @@
-# Copyright (C) 2018-2019 Lienol
+# Copyright (C) 201  8-2019 Lienol
 #
 # This is free software, licensed under the Apache License, Version 2.0 .
 #
